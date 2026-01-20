@@ -32,23 +32,34 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-<div style="display: inline_block">
+## 🧠 Tech Stack
+📊 Data & Bancos de Dados
+<div style="display: inline_block"> 
+  <img align="center" alt="Oracle" height="35" width="40" src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg"> 
+  <img align="center" alt="SQLServer" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">       <img align="center" alt="PostgreSQL" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
+  <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+</div>
+📈 BI, Relatórios & Visualização
+<div style="display: inline_block"> 
+  <img align="center" alt="PowerBI" height="35" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"> 
+  <img align="center" alt="Excel" height="35" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg"> 
+</div>
+🧩 Product Management & Análise de Requisitos (PM / PO)
+<div style="display: inline_block"> 
+  <img align="center" alt="Jira" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"> 
+  <img align="center" alt="Redmine" height="35" width="40" src="https://cdn.worldvectorlogo.com/logos/redmine.svg"> 
+  <img align="center" alt="Trello" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"> 
+  <img align="center" alt="OTRS" height="35" width="40" src="https://cdn.worldvectorlogo.com/logos/otrs.svg"> 
+</div>
+🎨 UX, Prototipação & Colaboração
+<div style="display: inline_block"> 
+  <img align="center" alt="Figma" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"   
+</div>
   
-<img align="center" alt="Marcelo-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="Marcelo-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img align="center" alt="Marcelo-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
+🔄 Metodologias & Processos
+<div style="display: inline_block"> 
+  <img align="center" alt="Scrum" height="35" width="40" src="https://cdn.worldvectorlogo.com/logos/scrumorg-1.svg"> 
+  <img align="center" alt="Kanban" height="35" width="40" src="https://cdn.worldvectorlogo.com/logos/kanban-1.svg"> 
 </div>
 
-### Backend
-<div style="display: inline_block">
-  
-<img align="center" alt="Marcelo-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="Marcelo-PostgreSQL" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Marcelo-SQLServer" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
-<img align="center" alt="Marcelo-PostgreSQL" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 
-</div>
