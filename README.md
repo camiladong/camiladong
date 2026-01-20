@@ -49,7 +49,6 @@
   <img align="center" alt="Jira" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"> 
   <img align="center" alt="Redmine" height="35" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redmine.svg"/> 
   <img align="center" alt="Trello" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"> 
-  <img align="center" alt="OTRS" height="35" width="40" src="https://cdn.worldvectorlogo.com/logos/otrs.svg"> 
 </div>
 🎨 UX, Prototipação & Colaboração
 <div style="display: inline_block"> 
@@ -58,8 +57,7 @@
   
 🔄 Metodologias & Processos
 <div style="display: inline_block"> 
-  <img align="center" alt="Scrum" height="35" width="40" src="https://cdn.worldvectorlogo.com/logos/scrumorg-1.svg"> 
-  <img align="center" alt="Kanban" height="35" width="40" src="https://cdn.worldvectorlogo.com/logos/kanban-1.svg"> 
+  <img align="center" alt="Scrum" height="35" width="40" src="https://cdn.worldvectorlogo.com/logos/scrumorg-1.svg">  
 </div>
 
 
